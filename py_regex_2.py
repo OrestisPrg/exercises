@@ -1,4 +1,4 @@
-Match all the following currencies £50,000, 30p, 500m euro, $5000.00 , £50.00 , 30.0bn.
+#Match all the following currencies £50,000, 30p, 500m euro, $5000.00 , £50.00 , 30.0bn.
 
 
 import re
